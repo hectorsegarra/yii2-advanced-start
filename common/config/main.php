@@ -1,7 +1,7 @@
 <?php
 return [
     'name' => 'Yii2-advanced-start',
-    'timeZone' => 'Europe/Moscow',
+    'timeZone' => 'Europe/Madrid',
     'vendorPath' => dirname(dirname(__DIR__)) . '/vendor',
     'aliases' => [
         '@bower' => '@vendor/bower-asset',

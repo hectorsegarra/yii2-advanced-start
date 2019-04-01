@@ -35,7 +35,7 @@ $css_theme = 'default';
 
 return [
     'id' => 'app-frontend',
-    'language' => 'ru',
+    'language' => 'es',//ru,en,es
     'homeUrl' => '/',
     'basePath' => dirname(__DIR__),
     'bootstrap' => [

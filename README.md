@@ -1,3 +1,6 @@
+#Sobre la traducción
+Esta traducción al español se basa en el proyecto de Dominus77
+
 # Yii2 Start Project Advanced Template
 
 [![Latest Stable Version](https://poser.pugx.org/dominus77/yii2-advanced-start/v/stable)](https://packagist.org/packages/dominus77/yii2-advanced-start)
