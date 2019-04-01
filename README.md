@@ -168,13 +168,13 @@ modules/
 
 Create a project:
 ```
-composer create-project --prefer-dist --stability=dev dominus77/yii2-advanced-start advanced-project
+composer create-project --prefer-dist --stability=dev hectorsegarra/yii2-advanced-start advanced-project
 ```
 
 or clone the repository for `pull` command availability:
 
 ```
-git clone https://github.com/Dominus77/yii2-advanced-start.git advanced-project
+git clone https://github.com/hectorsegarra/yii2-advanced-start.git advanced-project
 cd advanced-project
 composer install
 ```
